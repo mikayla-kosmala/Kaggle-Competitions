@@ -130,3 +130,5 @@ With these two Tuning models having the same validation score I decided to choos
 
 # Conclusion
 When I first looked at this data set I saw it as a challenge because I knew the target variable would be unblanaced. But thanks to some googling was able to look up ways to get around that. In the end I thought it was very interesting that the amount played a huge role in these fraudulate transactions. I honestly wish I was able to feature engineer more columns without them falling out due to high cardinality.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4149ac7a95ac4f7982b68c85e27992a3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
