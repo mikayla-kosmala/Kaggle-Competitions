@@ -133,5 +133,5 @@ When I first looked at this data set I saw it as a challenge because I knew the 
 
 <a align="center" href="https://www.loom.com/share/4149ac7a95ac4f7982b68c85e27992a3">
     <p>Predicting Credit Card Fraud - Watch Video</p>
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4149ac7a95ac4f7982b68c85e27992a3-with-play.gif">
+    <img align="center" style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4149ac7a95ac4f7982b68c85e27992a3-with-play.gif">
   </a>
